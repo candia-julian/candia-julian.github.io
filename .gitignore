@@ -1,0 +1,6 @@
+# Ignorar archivos y directorios generados por npm
+node_modules/
+
+# Ignorar archivos generados por Tailwind CSS
+dist/
+.cache/
